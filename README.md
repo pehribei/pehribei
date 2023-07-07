@@ -1,4 +1,4 @@
-### Olá, seja bem-vindx ao meu GitHub! 👋
+### Olá, seja bem-vindo ao meu GitHub! 👋
 
 - 🔭 Atualmente trabalho com Design
 - 🌱 Estou aprendendo JavaScript e Node.js
